@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samsonshaji
 Im interested in everything.
-Hit me up!!!!!
+Hit me up!!!!!!
 
 <!---
 samsonshaji/samsonshaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
