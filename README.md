@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @samsonshaji
-I'm interested in everything.
+- 👋 Hi, I’m @samsonshaji.
 
 
 <!---
