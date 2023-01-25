@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samsonshaji!!
-
+                            Hi, I am Samson Shaji!                  
+                                                
 
 <!---
 samsonshaji/samsonshaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
