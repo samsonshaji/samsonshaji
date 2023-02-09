@@ -128,7 +128,7 @@
 
 <div align='center'>
 
-## <b>Until next time</b>
+## <b>Stop Stalking bruh</b>
 
 </div>
 <br>
