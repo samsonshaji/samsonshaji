@@ -18,9 +18,9 @@
 <br>
 
 - Enthusiastic Software Engineering student at the University of Waterloo
-- Avid footballer in leisure time
 - Acquiring Web Development skills
 - Open to new job/internship opportunities
+- Avid footballer in leisure time
 - Connect with me if you share similar interests!
 
 <br><br>
